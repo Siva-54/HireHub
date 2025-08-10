@@ -9,17 +9,11 @@ A modern full-stack job portal application built with **React**, **Supabase**, a
 ##  Features
 
  User Authentication with Firebase  
- Recruiters can:
-
- Job Seekers can:
-
  Real-time Supabase database integration  
  Secure Role-Based Access via Row Level Security (RLS)  
  Upload and serve company logos via Supabase Storage  
  Fully responsive, clean UI with Tailwind CSS  
  State management via React hooks  
-
-
 
 ## Tech Stack
 
@@ -30,7 +24,6 @@ A modern full-stack job portal application built with **React**, **Supabase**, a
 - **State Handling:** React Hooks  
 
 ---
-
 
 ## Installation & Setup
 
